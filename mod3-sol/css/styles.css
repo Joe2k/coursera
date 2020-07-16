@@ -67,3 +67,11 @@ section{
 h2{
     margin-top: 10px;
 }
+
+section a{
+    color: #fad744;
+}
+
+section a:hover{
+    color: white;
+}
